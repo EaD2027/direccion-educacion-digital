@@ -16,3 +16,8 @@ En `config.js` podés cambiar `giteUrl` por la URL de GitHub Pages del grupo y `
 
 ## Nota institucional
 La denominación y las áreas se presentan como estructura **propuesta para 2027**, sujeta a aprobación institucional. La Coordinación del Plan de Formación Docente no aparece en este sitio.
+
+## Actualización: enfoque de trabajo y GITE
+- Se eliminó el organigrama de la portada. En su lugar se agregó «Cómo trabajamos», con tres etapas y acceso a las áreas funcionales.
+- El acceso a GITE desde las páginas del sitio utiliza `https://ead2027.github.io/GITE-Investigacion/`, configurado en `config.js`.
+- Se conserva el logo, la ilustración de educación digital del inicio, el carrusel y el resto del sitio.
